@@ -1,0 +1,53 @@
+
+V
+java:S1481>"4Remove this unused "sysOutConsumer2" local variable.(ÕÔë¯úÿÿÿÿ8œ¢¾Œ¹.
+s
+java:S4276>"QRefactor this code to use the more specialised Functional Interface 'IntConsumer'(ÕÔë¯úÿÿÿÿ8œ¢¾Œ¹.
+T	java:S106L"9Replace this use of System.out or System.err by a logger.(„ï³8‡¤’É¼.
+R
+java:S1481$"5Remove this unused "isEvenPredicate2" local variable.(»Ä¨©8•†Œ¹.
+U	java:S106`"9Replace this use of System.out or System.err by a logger.(«‚‹ß8¿æ¥É¼.
+o
+java:S4276$"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(»Ä¨©8•†Œ¹.
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(ßÏ¶¹üÿÿÿÿ8ÕŞ‚Œ¹.
+e
+java:S18541"CRemove this useless assignment to local variable "squareFunction2".(Ë¯â—ûÿÿÿÿ8À¸Œ¹.
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(™î‹Üûÿÿÿÿ8–”†É¼.
+U	java:S106_"9Replace this use of System.out or System.err by a logger.(˜ò–´8Ø«¥É¼.
+V
+java:S14811"4Remove this unused "squareFunction2" local variable.(Ë¯â—ûÿÿÿÿ8À¸Œ¹.
+:
+java:S2119G"Save and re-use this "Random".(¼İÅf8ÀıÈ¼.
+J
+java:S16041"(Make this anonymous inner class a lambda(Ë¯â—ûÿÿÿÿ8À¸Œ¹.
+Z	java:S106a"9Replace this use of System.out or System.err by a logger.(áõ¦Öÿÿÿÿÿ8Éª§É¼.
+E
+java:S1604$"(Make this anonymous inner class a lambda(»Ä¨©8•†Œ¹.
+Z	java:S106W"9Replace this use of System.out or System.err by a logger.(ó˜È ıÿÿÿÿ8ÍÉ˜É¼.
+G
+java:S5411e"*Use the primitive boolean expression here.(¡¯Ÿ€8‰÷ÜÉ¼.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡ó›Œÿÿÿÿÿ
+U	java:S106X"9Replace this use of System.out or System.err by a logger.(ÆÜÌ8ÎœÉ¼.
+Z	java:S106Y"9Replace this use of System.out or System.err by a logger.(Æ‚Øùÿÿÿÿ8ÎœÉ¼.
+U	java:S106f"9Replace this use of System.out or System.err by a logger.(Ş…’‚8¹íßÉ¼.
+U	java:S106e"9Replace this use of System.out or System.err by a logger.(¡¯Ÿ€8‰÷ÜÉ¼.
+Z	java:S106R"9Replace this use of System.out or System.err by a logger.(ˆûˆıÿÿÿÿ8£ó†É¼.
+x
+java:S42761"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(Ë¯â—ûÿÿÿÿ8À¸Œ¹.
+J
+java:S1604>"(Make this anonymous inner class a lambda(ÕÔë¯úÿÿÿÿ8œ¢¾Œ¹.
+~
+java:S4276-"\Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Integer>'(†×©‰üÿÿÿÿ8‹¼ı‹¹.
+m
+java:S4276F"QRefactor this code to use the more specialised Functional Interface 'IntSupplier'(¡¶ì28±ÓôÈ¼.
+U	java:S106K"9Replace this use of System.out or System.err by a logger.(“³±8‡¤’É¼.
+Z	java:S106V"9Replace this use of System.out or System.err by a logger.(ÑïÁáüÿÿÿÿ8Èò—É¼.
+e
+java:S1854>"CRemove this useless assignment to local variable "sysOutConsumer2".(ÕÔë¯úÿÿÿÿ8œ¢¾Œ¹.
+a
+java:S1854$"DRemove this useless assignment to local variable "isEvenPredicate2".(»Ä¨©8•†Œ¹.
+z
+java:S4276]"]Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Integer>'(Ô•”8‹×¢É¼.
+x
+java:S4276O"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(›Ù±úÿÿÿÿ8£ï„É¼.
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(«òˆì8œ¢¾Œ¹.

@@ -1,0 +1,11 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´äòŽùÿÿÿÿ8§°†£Ä.
+a
+java:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(£¸Ó‡8¬Ã‘£Ä.
+f
+java:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(´äòŽùÿÿÿÿ8§°†£Ä.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÇÏÖˆüÿÿÿÿ
+f
+java:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(«…€’þÿÿÿÿ8Íç—£Ä.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8Íç—£Ä.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8¬Ã‘£Ä.

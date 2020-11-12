@@ -1,0 +1,16 @@
+
+P
+java:S1481".Remove this unused "supplier1" local variable.(•¢áÁøÿÿÿÿ8ºø»Ê¼.
+J
+java:S1481"-Remove this unused "supplier" local variable.(Äìð‡8Ô•ºÊ¼.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡ó›Œÿÿÿÿÿ
+Y
+java:S1854"<Remove this useless assignment to local variable "supplier".(Äìð‡8Ô•ºÊ¼.
+T	java:S106
+"9Replace this use of System.out or System.err by a logger.(ƒÚáB8Û°°Ê¼.
+I
+java:S1612",Replace this lambda with a method reference.(Äìð‡8Ô•ºÊ¼.
+_
+java:S1854"=Remove this useless assignment to local variable "supplier1".(•¢áÁøÿÿÿÿ8ºø»Ê¼.
+=
+java:S2129" Remove this "String" constructor(Äìð‡8Ô•ºÊ¼.

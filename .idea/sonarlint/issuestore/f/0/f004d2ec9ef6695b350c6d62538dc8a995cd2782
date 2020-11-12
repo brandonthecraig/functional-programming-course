@@ -1,0 +1,28 @@
+
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(îí‡Šÿÿÿÿÿ8ûè¤À.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(Ïú‡™ÿÿÿÿÿ8ƒ¶ùÀ.
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(ğ©åÿÿÿÿÿ8‘º¤À.
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(—…ú„úÿÿÿÿ8İ²À.
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(‹™¥ÿÿÿÿÿ8ùº À.
+^
+java:S14810"<Remove this unused "firstTenPowersOfTwoList" local variable.(€¿÷©ûÿÿÿÿ8àÛÀÀ.
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(”îÂÃøÿÿÿÿ8ÁàìÀ.
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(à½ºëüÿÿÿÿ8Å”ºÀ.
+C
+java:S3864."!Remove this use of "Stream.peek".(à½ºëüÿÿÿÿ8Å”ºÀ.
+C
+java:S3864,"!Remove this use of "Stream.peek".(èå¶üÿÿÿÿ8ØÛ›À.
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(Èùî8Ñª•À.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(”ì¤çıÿÿÿÿ8´½ˆá¾.
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(èå¶üÿÿÿÿ8ØÛ›À.
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(‚Ş©8‘óÊÀ.
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÜÎ¡R
+Q
+java:S1128"4Remove this unused import 'org.w3c.dom.ls.LSOutput'.(Ò½¾Š8ØÛ›À.
+m
+java:S18540"KRemove this useless assignment to local variable "firstTenPowersOfTwoList".(€¿÷©ûÿÿÿÿ8àÛÀÀ.
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(êñ¿…8ƒ¶ùÀ.
+C
+java:S3864-"!Remove this use of "Stream.peek".(ğ©åÿÿÿÿÿ8‘º¤À.
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(Ê”ò±ÿÿÿÿÿ8¬ˆÀ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ø§ı»ùÿÿÿÿ8µüêÀ.

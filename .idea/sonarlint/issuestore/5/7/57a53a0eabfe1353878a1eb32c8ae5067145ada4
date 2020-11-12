@@ -1,0 +1,21 @@
+
+Z	java:S106e"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8•¦»‰¸.
+Z	java:S106R"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8½ã˜Š¸.
+U	java:S106i"9Replace this use of System.out or System.err by a logger.( §‡Ý8¾ËÛ‡¸.
+W	java:S125w"<This block of commented-out lines of code should be removed.(Ô½Âz8Óµò‡¸.
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8©Ò‡Š¸.
+I
+java:S1612Q",Replace this lambda with a method reference.(‚Î­Ê8—ßü‰¸.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾óÇ—
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8ô‘ý‰¸.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¶¼Â¤8¾ðªŠ¸.
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8©¤´‰¸.
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8‘÷¸‰¸.
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8àŠ¸.
+Z	java:S106Z"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8Ö¶ë‰¸.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÞÒ©Ø8ëÅ­Š¸.
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8˜Çõ‰¸.
+E
+java:S1144h"(Remove this unused private "sum" method.(‚’Ýö8“Œî‡¸.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‚¨Ö§8»Œ‰Š¸.
+Z	java:S106_"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8ùÄï‰¸.

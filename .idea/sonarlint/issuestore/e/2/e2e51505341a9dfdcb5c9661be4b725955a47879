@@ -1,0 +1,10 @@
+
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ÈÁÊ§ùÿÿÿÿ8¢ŽÙ²».
+y
+java:S4276("\Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Integer>'(éîúÝ8ºôÑ²».
+U	java:S106>"9Replace this use of System.out or System.err by a logger.(‚¨Ö§8ïÒäŒ¹.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡ó›Œÿÿÿÿÿ
+E
+java:S16046"(Make this anonymous inner class a lambda(èÝî•8áõÝŒ¹.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(¿šÕ˜þÿÿÿÿ8‘÷Ô²».
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‚¨Ö§8Ê‘ÜŒ¹.

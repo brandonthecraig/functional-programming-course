@@ -1,0 +1,29 @@
+
+U	java:S106P"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ØÌ†¼Â.
+`
+java:S1481?"CRemove this unused "reviewScoreLessThan90Predicate" local variable.(úÇØ8ªÄë»Â.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(¯ôí«şÿÿÿÿ8¬ë¨»Â.
+b
+java:S1481>"FRemove this unused "reviewScoreGreaterThan90Predicate" local variable.(Ğ›«`8ªÄë»Â.
+q
+java:S1854>"URemove this useless assignment to local variable "reviewScoreGreaterThan90Predicate".(Ğ›«`8ªÄë»Â.
+w
+java:S1854="URemove this useless assignment to local variable "reviewScoreGreaterThan95Predicate".(÷ãàúûÿÿÿÿ8ªÄë»Â.
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(›Ïÿ8šëÇ»Â.
+>
+java:S3864R"!Remove this use of "Stream.peek".(ßˆ±ö8€‰¼Â.
+U	java:S106T"9Replace this use of System.out or System.err by a logger.(ßˆ±ö8€‰¼Â.
+U	java:S106V"9Replace this use of System.out or System.err by a logger.(ßˆ±ö8ÕÛˆ¼Â.
+h
+java:S1481="FRemove this unused "reviewScoreGreaterThan95Predicate" local variable.(÷ãàúûÿÿÿÿ8ªÄë»Â.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜¥ŞÂşÿÿÿÿ
+U	java:S106R"9Replace this use of System.out or System.err by a logger.(ßˆ±ö8€‰¼Â.
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(ÆÀûı8»§ä»Â.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ìîûÿÿÿÿ8å—ˆÀ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(çÒ¿8‹ËÀ.
+>
+java:S3864T"!Remove this use of "Stream.peek".(ßˆ±ö8ÕÛˆ¼Â.
+>
+java:S3864V"!Remove this use of "Stream.peek".(ßˆ±ö8€‰¼Â.
+o
+java:S1854?"RRemove this useless assignment to local variable "reviewScoreLessThan90Predicate".(úÇØ8ªÄë»Â.

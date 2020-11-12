@@ -1,0 +1,32 @@
+
+U	java:S106c"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ùë€¿¾.
+p
+java:S1192"NDefine a constant instead of duplicating this literal "Microservices" 3 times.(…‰¶úüÿÿÿÿ8“§øÊ¼.
+V	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ß¬­Ì¼.
+V	java:S106—"9Replace this use of System.out or System.err by a logger.(ÆÀûı8¹Ğ¾¾.
+V	java:S106Ã"9Replace this use of System.out or System.err by a logger.(ÆÀûı8á¦Û¾¾.
+U	java:S106>"9Replace this use of System.out or System.err by a logger.(ÆÀûı8µ¬¿¾.
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(ØÌãò8°ïÑË¼.
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(Ë¼âµıÿÿÿÿ8õáÛË¼.
+U	java:S106P"9Replace this use of System.out or System.err by a logger.(ÆÀûı8¦»“Ì¼.
+U	java:S106["9Replace this use of System.out or System.err by a logger.(ÆÀûı8¯…¡¿¾.
+U	java:S106("9Replace this use of System.out or System.err by a logger.(† èŠ8çîËË¼.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†Ğ‰â
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(Çº¼ëùÿÿÿÿ8ß­ØË¼.
+U	java:S106F"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ŞŠ³¿¾.
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(ªÈÀ8…»ÈË¼.
+Z	java:S106X"9Replace this use of System.out or System.err by a logger.(Ô¬Äıÿÿÿÿ8ñú±Ì¼.
+U	java:S106j"9Replace this use of System.out or System.err by a logger.(ÆÀûı8˜ï»Ì¼.
+V	java:S106®"9Replace this use of System.out or System.err by a logger.(ÆÀûı8Ç”¿¾.
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(ÆÀûı8´Àç¾¾.
+U	java:S106u"9Replace this use of System.out or System.err by a logger.(ÆÀûı8¹Ë¿¾.
+V	java:S106¶"9Replace this use of System.out or System.err by a logger.(ÆÀûı8×œ¿¾.
+V	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(ÆÀûı8Î·¶Ì¼.
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(¯¥¤¹şÿÿÿÿ8£„ÛË¼.
+V	java:S106É"9Replace this use of System.out or System.err by a logger.(ÆÀûı8èÙ‡¿¾.
+V	java:S106Ú"9Replace this use of System.out or System.err by a logger.(ÆÀûı8öµÌ¾¾.
+U	java:S106|"9Replace this use of System.out or System.err by a logger.(ÆÀûı8¿ŸúË¼.
+h
+java:S1192"FDefine a constant instead of duplicating this literal "Cloud" 5 times.(¤âæÖûÿÿÿÿ8“§øÊ¼.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÀûı8Ğ¤ñ¾¾.
+V	java:S106¤"9Replace this use of System.out or System.err by a logger.(ÆÀûı8†ÎûË¼.
